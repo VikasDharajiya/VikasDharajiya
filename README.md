@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Web-Development<br>🌱 I’m currently learning React , node<br>  <br>I'm Just trying to come out of my comfort zone!
+🔭 I’m currently working on Web-Development<br>🌱 I’m currently learning React , Angular<br>  <br>I'm Just trying to come out of my comfort zone!
 
 
 ## 🌐 Socials:
